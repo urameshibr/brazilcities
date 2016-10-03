@@ -1,0 +1,32 @@
+{
+  "name": "urameshibr/brazilcities",
+  "description": "Pacote com as cidades brasileiras",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lucas Rodrigues",
+      "email": "lucas.opensource@gmail.com",
+      "role": "Mantenedor"
+    },
+    {
+      "name": "Jansen Felipe",
+      "email": "jansen.felipe@gmail.com",
+      "role": "Criador"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Urameshibr\\": "src/Urameshibr/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  },
+  "minimum-stability": "dev"
+}
