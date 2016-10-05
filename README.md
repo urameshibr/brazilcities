@@ -23,7 +23,7 @@ Adicione o Provider no arquivo `config/app.php`
 // file START ommited
 'providers' => [
     // other providers ommited
-    'Urameshibr\Providers\CityServiceProvider',
+    Urameshibr\Providers\CityServiceProvider::class,
 ],
 // file END ommited
 ```
