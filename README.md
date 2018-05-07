@@ -14,7 +14,7 @@ Tenha no banco de dados do seu projeto Laravel a tabela de cidades brasileiras
 Adicione o package
 
 <pre>
-composer require urameshibr/brazilcities:"1.1.0"
+composer require urameshibr/brazilcities:"1.1.1"
 </pre>
 
 Adicione o Provider no arquivo `config/app.php`
