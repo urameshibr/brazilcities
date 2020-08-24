@@ -88,7 +88,7 @@ Se desejar, um plugin está disponível para carregar seus selectBoxes via ajax.
 Adicione o `scripts.js`
 
 ```html
-<script src="/vendor/urameshibr/cities/js/script.js"></script>
+<script src="/vendor/urameshibr/cities/js/scripts.js"></script>
 ```
 
 HTML:
